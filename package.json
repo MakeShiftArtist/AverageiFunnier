@@ -1,0 +1,29 @@
+{
+  "name": "averageifunnier",
+  "version": "1.0.0",
+  "description": "discord / ifunny bot in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeShiftArtist/AverageiFunnier.git"
+  },
+  "keywords": [
+    "discord",
+    "ifunny",
+    "bot",
+    "discord.js"
+  ],
+  "author": "MakeShiftArtist",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MakeShiftArtist/AverageiFunnier/issues"
+  },
+  "homepage": "https://github.com/MakeShiftArtist/AverageiFunnier#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ifunny": "git+https://github.com/gastrodon/iFunny.js.git"
+  }
+}
