@@ -1,5 +1,4 @@
 const discord = require("discord.js");
-const ifunny = require("iFunny");
 const {commify, noEveryone, getUser} = require("../src/methods")
 const {robot} = require("../src/ifunny")
 
